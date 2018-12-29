@@ -8,7 +8,7 @@ Browser管理即创建浏览器应用。
 2.  在左侧导航栏中选择“Browser”，展开选项卡，单击“管理”。
 3.  创建浏览器应用。单击“添加”，按提示输入应用名称后点击“生成”，系统将生成专属您应用的埋点命令行。
 
-    ![](figures/zh-cn_image_0128868296.png)
+    ![](figures/创建浏览器应用.png)
 
 4.  单击“完成拷贝”，完成应用创建并自动拷贝命令行到剪贴板。
 
@@ -18,13 +18,13 @@ Browser管理即创建浏览器应用。
 
 ## 嵌入命令行<a name="section12998155554416"></a>
 
-1.  在应用创建完成后，埋点命令行就已存在于剪贴板中。若您不慎丢失命令行，可在列表右侧的动作列单击![](figures/zh-cn_image_0128868299.png)。
+1.  在应用创建完成后，埋点命令行就已存在于剪贴板中。若您不慎丢失命令行，可在列表右侧的动作列单击![](figures/icon-找回1.png)。
 
-    ![](figures/zh-cn_image_0128868302.png)
+    ![](figures/浏览器管理.png)
 
 2.  在“查看埋点命令行”弹框中单击“完成拷贝”重新获取埋点命令行。
 
-    ![](figures/zh-cn_image_0128868305.png)
+    ![](figures/查看埋点命令行1.png)
 
 3.  将命令行粘贴在您想要监控的页面的HTML文件中**<head\>**代码块的**第一行**，然后重启应用即可。
 
@@ -47,17 +47,17 @@ Browser管理即创建浏览器应用。
 </thead>
 <tbody><tr id="row1058316369591"><td class="cellrowborder" valign="top" width="20%" headers="mcps1.2.3.1.1 "><p id="p3583036195916"><a name="p3583036195916"></a><a name="p3583036195916"></a>全选或者取消全选</p>
 </td>
-<td class="cellrowborder" valign="top" width="80%" headers="mcps1.2.3.1.2 "><p id="p258317365591"><a name="p258317365591"></a><a name="p258317365591"></a>可通过<a name="image536513147519"></a><a name="image536513147519"></a><span><img id="image536513147519" src="figures/zh-cn_image_0128868308.png"></span>全选浏览器应用管理表中行，通过<a name="image1251516262073"></a><a name="image1251516262073"></a><span><img id="image1251516262073" src="figures/zh-cn_image_0128868311.png" width="20.9475" height="20.045627"></span>可取消全选。</p>
+<td class="cellrowborder" valign="top" width="80%" headers="mcps1.2.3.1.2 "><p id="p258317365591"><a name="p258317365591"></a><a name="p258317365591"></a>可通过<a name="image127531427161718"></a><a name="image127531427161718"></a><span><img id="image127531427161718" src="figures/icon-全选1.png" width="27.93" height="23.425157000000002"></span>全选浏览器应用管理表中行，通过<a name="image14489152902018"></a><a name="image14489152902018"></a><span><img id="image14489152902018" src="figures/icon-取消全选1.png" width="21.28" height="20.354719"></span>可取消全选。</p>
 </td>
 </tr>
 <tr id="row019992094812"><td class="cellrowborder" valign="top" width="20%" headers="mcps1.2.3.1.1 "><p id="p205831436115916"><a name="p205831436115916"></a><a name="p205831436115916"></a>跳转到拓扑界面</p>
 </td>
-<td class="cellrowborder" valign="top" width="80%" headers="mcps1.2.3.1.2 "><p id="p1167075833016"><a name="p1167075833016"></a><a name="p1167075833016"></a>单击列表右侧的动作列单击<a name="image194232024181112"></a><a name="image194232024181112"></a><span><img id="image194232024181112" src="figures/zh-cn_image_0128868314.png"></span>按钮，可跳转到Browser拓扑界面详细查看调用过程。</p>
+<td class="cellrowborder" valign="top" width="80%" headers="mcps1.2.3.1.2 "><p id="p1167075833016"><a name="p1167075833016"></a><a name="p1167075833016"></a>单击列表右侧的动作列单击<a name="image201203573217"></a><a name="image201203573217"></a><span><img id="image201203573217" src="figures/icon-跳转到拓扑界面.png"></span>按钮，可跳转到Browser拓扑界面详细查看调用过程。</p>
 </td>
 </tr>
 <tr id="row185831236125917"><td class="cellrowborder" valign="top" width="20%" headers="mcps1.2.3.1.1 "><p id="p1358333615919"><a name="p1358333615919"></a><a name="p1358333615919"></a>跳转到浏览器汇总界面</p>
 </td>
-<td class="cellrowborder" valign="top" width="80%" headers="mcps1.2.3.1.2 "><p id="p2317132418122"><a name="p2317132418122"></a><a name="p2317132418122"></a>单击列表右侧的动作列单击<a name="image1762782117139"></a><a name="image1762782117139"></a><span><img id="image1762782117139" src="figures/zh-cn_image_0128868317.png"></span>按钮，可跳转到浏览器汇总界面，查看用户体验详情。</p>
+<td class="cellrowborder" valign="top" width="80%" headers="mcps1.2.3.1.2 "><p id="p2317132418122"><a name="p2317132418122"></a><a name="p2317132418122"></a>单击列表右侧的动作列单击<a name="image698121302214"></a><a name="image698121302214"></a><span><img id="image698121302214" src="figures/icon-跳转到浏览器汇总界面.png"></span>按钮，可跳转到浏览器汇总界面，查看用户体验详情。</p>
 </td>
 </tr>
 </tbody>

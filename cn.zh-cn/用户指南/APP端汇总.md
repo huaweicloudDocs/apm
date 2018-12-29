@@ -40,7 +40,7 @@
 
 ## APP端汇总界面操作<a name="section16744158919"></a>
 
-通过单击APP端汇总页左侧的![](figures/zh-cn_image_0128868320.png)解锁按钮，您可对汇总页面中的控件进行如下表操作。
+通过单击APP端汇总页左侧的![](figures/icon-解锁按钮4.png)解锁按钮，您可对汇总页面中的控件进行如下表操作。
 
 <a name="table16941192520152"></a>
 <table><thead align="left"><tr id="row6826364"><th class="cellrowborder" valign="top" width="15%" id="mcps1.1.4.1.1"><p id="p16064575"><a name="p16064575"></a><a name="p16064575"></a>操作对象</p>
@@ -55,8 +55,8 @@
 </td>
 <td class="cellrowborder" valign="top" width="15%" headers="mcps1.1.4.1.2 "><p id="p15203586"><a name="p15203586"></a><a name="p15203586"></a>锁定</p>
 </td>
-<td class="cellrowborder" rowspan="4" valign="top" width="70%" headers="mcps1.1.4.1.3 "><p id="p23530993"><a name="p23530993"></a><a name="p23530993"></a>通过单击APP端汇总页左侧的<a name="image12241115217359"></a><a name="image12241115217359"></a><span><img id="image12241115217359" src="figures/zh-cn_image_0128868323.png"></span>解锁按钮，可添加、删除、重置汇总页面的控件。</p>
-<p id="p10452353"><a name="p10452353"></a><a name="p10452353"></a><a name="image050623012318"></a><a name="image050623012318"></a><span><img id="image050623012318" src="figures/zh-cn_image_0128868326.png"></span></p>
+<td class="cellrowborder" rowspan="4" valign="top" width="70%" headers="mcps1.1.4.1.3 "><p id="p23530993"><a name="p23530993"></a><a name="p23530993"></a>通过单击APP端汇总页左侧的<a name="image61221223179"></a><a name="image61221223179"></a><span><img id="image61221223179" src="figures/icon-解锁按钮5.png"></span>解锁按钮，可添加、删除、重置汇总页面的控件。</p>
+<p id="p10452353"><a name="p10452353"></a><a name="p10452353"></a><a name="image16431205919188"></a><a name="image16431205919188"></a><span><img id="image16431205919188" src="figures/汇总界面2.png"></span></p>
 </td>
 </tr>
 <tr id="row41334227"><td class="cellrowborder" valign="top" headers="mcps1.1.4.1.1 "><p id="p59738106"><a name="p59738106"></a><a name="p59738106"></a>添加</p>
@@ -72,8 +72,8 @@
 </td>
 <td class="cellrowborder" valign="top" width="15%" headers="mcps1.1.4.1.2 "><p id="p33514934"><a name="p33514934"></a><a name="p33514934"></a>删除</p>
 </td>
-<td class="cellrowborder" rowspan="2" valign="top" width="70%" headers="mcps1.1.4.1.3 "><p id="p30355138"><a name="p30355138"></a><a name="p30355138"></a>通过单击APP端汇总页左侧的<a name="image7220105553514"></a><a name="image7220105553514"></a><span><img id="image7220105553514" src="figures/zh-cn_image_0128868329.png"></span>解锁按钮，在每个控件可进行对控件的“删除”，对控件视图“放大”的操作。</p>
-<p id="p17540145514296"><a name="p17540145514296"></a><a name="p17540145514296"></a><a name="image49371858193614"></a><a name="image49371858193614"></a><span><img id="image49371858193614" src="figures/zh-cn_image_0128868332.png"></span></p>
+<td class="cellrowborder" rowspan="2" valign="top" width="70%" headers="mcps1.1.4.1.3 "><p id="p30355138"><a name="p30355138"></a><a name="p30355138"></a>通过单击APP端汇总页左侧的<a name="image1179153841716"></a><a name="image1179153841716"></a><span><img id="image1179153841716" src="figures/icon-解锁按钮6.png"></span>解锁按钮，在每个控件可进行对控件的“删除”，对控件视图“放大”的操作。</p>
+<p id="p17540145514296"><a name="p17540145514296"></a><a name="p17540145514296"></a><a name="image457421591911"></a><a name="image457421591911"></a><span><img id="image457421591911" src="figures/用户体验（Apdex）2.png"></span></p>
 </td>
 </tr>
 <tr id="row4760790"><td class="cellrowborder" valign="top" headers="mcps1.1.4.1.1 "><p id="p50079677"><a name="p50079677"></a><a name="p50079677"></a>放大</p>

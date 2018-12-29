@@ -105,7 +105,7 @@ ICAgent有两种安装方式，您可以按照您的场景进行选择。您需�
 
     2.  <a name="zh-cn_topic_0089582074_zh-cn_topic_0089684077_zh-cn_topic_0089582074_li1462214222118"></a>单击“复制命令”。
 
-        ![](figures/zh-cn_image_0127591972.png)
+        ![](figures/安装ICAgent.png)
 
 
 6.  使用PuTTY等远程登录工具，以**root**用户登录待安装ICAgent的服务器，执行[5.b](#zh-cn_topic_0089582074_zh-cn_topic_0089684077_zh-cn_topic_0089582074_li1462214222118)复制到的安装命令进行安装。
