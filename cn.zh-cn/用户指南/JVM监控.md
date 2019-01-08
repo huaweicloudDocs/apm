@@ -11,19 +11,19 @@ JVM监控功能提供JVM内存和线程指标，您可以单击“内存”和�
 
 ## 内存指标图表<a name="section0129181065212"></a>
 
-如[图2](#fig133607441526)所示，展示设置的时间段内某个实例的总内存、堆内存、非堆内存等JVM不同内存区域的最大值、分配值和使用情况的趋势，也展示近30分钟内某个实例的垃圾收集堆的GC时间和GC次数趋势。
+如[图2](#fig133607441526)所示，展示设置的时间段内某个实例的总内存、堆内存、非堆内存等JVM不同内存区域的最大值、分配值和使用情况的趋势，也展示设置的时间段内某个实例的垃圾收集堆的GC时间和GC次数趋势。
 
 **图 2**  内存指标图<a name="fig133607441526"></a>  
 ![](figures/内存指标图.png "内存指标图")
 
 **JVM内存介绍**
 
-JVM区域总体分为Heap memory（堆内存）和Non-Heap memory（非堆内存）。
+JVM区域总体分为Heap memory和Non-Heap memory。
 
--   Heap memory：堆是Java 虚拟机运行时数据区域，分配所有类实例和数组的内存。对象的堆内存由称为垃圾回收器的自动内存管理系统回收。Heap区分为Eden Space（伊甸园）、Survivor Space （幸存者区） 和Tenured Space（养老区）。
--   Non-Heap memory：Java 虚拟机管理堆之外的内存。Non-Heap区分为Code Cache （代码缓存区）、Permanent Space （永久保存区）或Meta Space（元空间）。
+-   Heap memory：堆是Java 虚拟机运行时数据区域，分配所有类实例和数组的内存。对象的堆内存由称为垃圾回收器的自动内存管理系统回收。Heap区分为Eden Space、Survivor Space和Tenured Space。
+-   Non-Heap memory：Java 虚拟机管理堆之外的内存。Non-Heap区分为Code Cache、Permanent Space或Meta Space。
 
-Java堆是垃圾收集器管理的主要区域，又称为Garbage Collectioned Heap（垃圾收集堆），GC方式包括Full GC （整个堆垃圾收集）和Minor GC（新生代垃圾收集）。
+Java堆是垃圾收集器管理的主要区域，又称为Garbage Collectioned Heap，GC方式包括Full GC和Minor GC。
 
 **表 1**  内存区域说明
 
